@@ -1,0 +1,6 @@
+[run]
+source = api_teste
+omit = 
+    tests/*
+    autoapp.py
+
